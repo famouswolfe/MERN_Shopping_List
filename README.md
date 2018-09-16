@@ -1,5 +1,6 @@
 # MERN_Shopping_List
-A simple MERN shopping list
+
+A simple shopping list built using the MERN stack (Mongo, Express, React, Node).
 
 To use:
 
