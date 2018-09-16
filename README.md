@@ -10,4 +10,4 @@ Delete an item:
 Click the red "X" button and it will remove the item from both the list and the data base.
 
 See working app here:
-https://dashboard.heroku.com/apps/murmuring-lowlands-38738/resources
+https://murmuring-lowlands-38738.herokuapp.com/
