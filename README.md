@@ -13,4 +13,4 @@ Click the red "X" button and it will remove the item from both the list and the 
 See working app here:
 https://murmuring-lowlands-38738.herokuapp.com/
 
-Thanks for visiting!
+Thanks for visiting my repo!
